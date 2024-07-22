@@ -4,7 +4,8 @@
 </br>
 
 ## Projects
-[맛집요정 챗봇1](https://matjipfairychatbot.streamlit.app/)
-</br>
-[맛집요정 챗봇2](https://matjipfairychatbot01stg.streamlit.app/)
+### 맛집요정
+> [맛집요정 챗봇1](https://matjipfairychatbot.streamlit.app/)
+> </br>
+> [맛집요정 챗봇2](https://matjipfairychatbot01stg.streamlit.app/)
 </br>
