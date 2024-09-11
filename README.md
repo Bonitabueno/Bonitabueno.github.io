@@ -1,5 +1,5 @@
 # Bonitabueno.github.io
-안녕하세요. Bonitabueno입니다.
+안녕하세요. 보니타부에노입니다.
 
 </br>
 
@@ -9,5 +9,5 @@
 </br>
 > [맛집요정 챗봇1](https://matjipfairychatbot.streamlit.app/)
 > </br>
-> [맛집요정 챗봇2](https://matjipfairychatbot01stg.streamlit.app/)
+> [맛집요정 챗봇2](https://matjipfairy.streamlit.app/)
 </br>
