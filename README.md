@@ -1,5 +1,5 @@
-# Bonitabueno.github.io
-안녕하세요. 보니타부에노입니다.
+# Bonitabueno
+안녕하세요. 이강현입니다.
 
 </br>
 
